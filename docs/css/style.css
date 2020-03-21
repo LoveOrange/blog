@@ -42,7 +42,6 @@ summary {
 /* Headers */
 h1 {
     font-size: 1.35em;
-    color: brown;
 }
 
 h2 {
@@ -205,7 +204,7 @@ article header h1 {
 article header h1 a {
     border: none;
     text-decoration: none;
-    color: brown;
+    color: #333;
 }
 
 .article-info {
