@@ -2,3 +2,6 @@
 	path = themes/anubis
 	url = https://github.com/mitrichius/hugo-theme-anubis.git
 	branch = master
+[submodule "docs"]
+	path = docs
+	url = git@github.com:LoveOrange/LoveOrange.github.io.git
